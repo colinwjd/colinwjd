@@ -1,4 +1,5 @@
-[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinwjd)](https://github.com/anuraghazra/github-readme-stats)
+![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinwjd&show_icons=true&theme=radical)
+
 <!--
 **colinwjd/colinwjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
